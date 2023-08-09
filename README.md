@@ -14,3 +14,7 @@ This is a Streamlit web application that allows users to upload a CSV file, anal
 - Generate basic statistics about the dataset.
 - Visualize data using Heatmaps and Pair Plots.
 
+
+![image](https://github.com/rohan9446/Dataset_analyzer/assets/99634410/8db19ec8-0f5c-46bf-9c74-743c38855f93)
+
+

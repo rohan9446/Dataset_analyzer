@@ -17,4 +17,12 @@ This is a Streamlit web application that allows users to upload a CSV file, anal
 
 ![image](https://github.com/rohan9446/Dataset_analyzer/assets/99634410/8db19ec8-0f5c-46bf-9c74-743c38855f93)
 
+# Note:
+
+[here]: https://platform.openai.com/account/api-keys
+Remember to replace "your-openapi-key" with your actual OpenAI API key. You can get one [here].
+
+[here.]: https://pandas-ai.readthedocs.io/en/latest/
+The documentation for PandasAI can be found [here.]
+
 

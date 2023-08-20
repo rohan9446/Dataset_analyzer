@@ -1,4 +1,8 @@
-pip install seaborn, pandas, matplotlib, pandasai, streamlit
+pip install seaborn
+pip install pandas
+pip install pandasai
+pip install matplotlib
+pip install streamlit
 
 import streamlit as st
 import pandas as pd

@@ -1,4 +1,4 @@
-!pip install stramlit, pandas, seaborn, matplotlib, pandasai 
+
 import streamlit as st
 import pandas as pd
 import seaborn as sns
